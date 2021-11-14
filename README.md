@@ -1,1 +1,3 @@
 # day-planner
+This app is for keeping track of the users daily schedule and allowing you to update your schedule.
+The user clicks into the text area/row and inputs the event to be penciled in for that corresponding hour. Clicking the icon to the right saves the user's input to localStorage so that the data persists. The user can clear their entire schedule by clicking the 'Clear Schedule' button, or they can clear an individual event and save it again to clear that time slot.
